@@ -9,7 +9,7 @@ You can follow this tutorial to set-up a simple API to upload files to AWS S3.
 Nothing complicated. All files are shared in this github.
 
 - By end of this task you will be able to upload files with flash message to S3 by using Flask.
-![alt text](https://github.com/hkowrada/upload/blob/master/final_flask_s3.png) 
+![alt text](https://github.com/hkowrada/upload/blob/master/final_flask_s3%20(2).png) 
 
 
 ## Pre-requisites
