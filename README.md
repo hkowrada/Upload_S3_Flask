@@ -17,23 +17,23 @@ Nothing complicated. All files are shared in this github.
 This presupposes that you have a s3 account + bucket set up
 
 - Requirements.txt
-arrow==0.12.1
-boto3==1.5.31
-botocore==1.8.45
-click==6.7
-docutils==0.14
-dominate==2.3.1
-Flask==0.12.2
-Flask-Bootstrap==3.3.7.1
-itsdangerous==0.24
-Jinja2==2.10
-jmespath==0.9.3
-MarkupSafe==1.0
-python-dateutil==2.6.1
-s3transfer==0.1.13
-six==1.11.0
-visitor==0.1.3
-Werkzeug==0.14.1
+- arrow==0.12.1
+  boto3==1.5.31
+  botocore==1.8.45
+  click==6.7
+  docutils==0.14
+  dominate==2.3.1
+  Flask==0.12.2
+  Flask-Bootstrap==3.3.7.1
+  itsdangerous==0.24
+  Jinja2==2.10
+  jmespath==0.9.3
+  MarkupSafe==1.0
+  python-dateutil==2.6.1
+  s3transfer==0.1.13
+  six==1.11.0
+  visitor==0.1.3
+  Werkzeug==0.14.1
 
 ## Front End 
 
