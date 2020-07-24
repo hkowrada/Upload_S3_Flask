@@ -38,7 +38,7 @@ This presupposes that you have a s3 account + bucket set up
 ## Front End 
 
 You will need to have a system with Ubuntu/windows and install python on it.
-The file needed for the front end are in the "test" folder.
+The file needed for the front end are in the "templates" folder.
 
 ## Back end
 You will need to have a system with Ubuntu/windows and install :
@@ -46,7 +46,7 @@ You will need to have a system with Ubuntu/windows and install :
 - Create a virtual env with python 3.6
 - install the packages "Flask", "arrow", "flask_bootstrap" and "boto3".
 
-The file required for the back end are in the test folder
+The file required for the back end are in the "Upload_S3_Flask" folder
 
 ![alt text](https://media3.giphy.com/media/5ArJanyCfxgiY/giphy.gif)
 
